@@ -18,7 +18,6 @@
     }
   ],
   "required": [
-    "isbn",
     "amazon_url",
     "author",
     "language",
@@ -93,5 +92,5 @@
       "examples": [2017]
     }
   },
-  "additionalProperties": true
+  "additionalProperties": false
 }
